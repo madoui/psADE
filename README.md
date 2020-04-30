@@ -1,8 +1,5 @@
 Simulation population-scale Allele Differential Expression from Metagenomic and metranscriptomic data
 ================
-Amin Madoui
-25 mars 2020
-
 Modelling genomic parameters
 ----------------------------
 
